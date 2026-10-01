@@ -1,0 +1,13 @@
+{
+  "id": "rrnu7nafp4",
+  "accessMode": "external",
+  "authentication": {
+    "signup": "open",
+    "authenticationMethods": {
+      "magicLink": true,
+      "googleSignIn": true,
+      "sso": false
+    }
+  },
+  "envVars": {}
+}

@@ -1,0 +1,14 @@
+{
+  "name": "battery-options-database",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "typecheck": "zitejs check"
+  },
+  "dependencies": {
+    "zitejs": "0.9.120"
+  }
+}
